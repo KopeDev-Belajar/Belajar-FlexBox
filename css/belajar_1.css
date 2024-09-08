@@ -1,0 +1,221 @@
+.item {
+    font-size: 20px;
+    color: white;
+    font-family: Arial, sans-serif;
+    background-color: steelblue;
+    padding: 20px;
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+.item-1 {
+    background-color: #ff5733;
+    min-height: 20px;
+}
+
+.item-2 {
+    background-color: #33ff57;
+    min-height: 30px;
+
+}
+
+.item-3 {
+    background-color: #00d9ff;
+    min-height: 10px;
+
+}
+
+.item-4 {
+    background-color: #7a645e;
+    min-height: 40px;
+}
+
+.item-5 {
+    background-color: #c453e0;
+    min-height: 60px;
+}
+
+.item-6 {
+    background-color: #4034a8;
+    min-height: 80px;
+}
+
+/* display: inline-flex;  */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    background-color: lightgreen;
+} */
+
+/* display: flex;  */
+/* .container {
+    padding: 15px;
+    display: flex;
+    background-color: lightgreen;
+} */
+
+
+/* flex-direction: row; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-direction: row;
+    background-color: lightgreen;
+} */
+
+/* flex-direction: row-reverse; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    background-color: lightgreen;
+} */
+
+/* flex-direction: column; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-direction: column;
+    background-color: lightgreen;
+} */
+
+/* flex-direction: column-reverse; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-direction: column-reverse;
+    background-color: lightgreen;
+} */
+
+/* flex-wrap: nowrap; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    background-color: lightgreen;
+} */
+
+/* flex-wrap: wrap; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color: lightgreen;
+} */
+
+/* flex-wrap: wrap-reverse; */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-wrap: wrap-reverse;
+    background-color: lightgreen;
+} */
+
+/* flex-flow */
+/* .container {
+    padding: 15px;
+    display: inline-flex;
+    flex-flow: row-reverse wrap;
+    background-color: lightgreen;
+} */
+
+/* justify-content: flex-start;  */
+/* .container {
+    padding: 15px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: lightgreen;
+} */
+
+/* justify-content: flex-end; */
+/* .container {
+    padding: 15px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: lightgreen;
+} */
+
+/* justify-content: center; */
+/* .container {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: lightgreen;
+} */
+
+/* justify-content: space-between; */
+/* .container {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgreen;
+} */
+
+/* justify-content: space-around; */
+/* .container {
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgreen;
+} */
+
+/* justify-content: space-evenly; */
+/* .container {
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgreen;
+} */
+
+/* align-items: stretch; */
+/* .container {
+    padding: 5px;
+    height: 500px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    background-color: lightgreen;
+} */
+
+/* align-items: flex-start; */
+/* .container {
+    padding: 5px;
+    height: 500px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    background-color: lightgreen;
+} */
+
+/* align-items: flex-end; */
+/* .container {
+    padding: 5px;
+    height: 500px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    background-color: lightgreen;
+} */
+
+/* align-items: center; */
+/* .container {
+    padding: 5px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightgreen;
+} */
+
+
+/* align-items: baseline; */
+/* .container {
+    height: 200px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    align-items: center;
+    background-color: lightgreen;
+} */
